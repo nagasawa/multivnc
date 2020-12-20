@@ -41,7 +41,7 @@
 <string name="bookmark_saved">ブックマークを保存しました！</string>
 <string name="bookmark_invalid">これはもう有効なブックマークではありません！</string>
 <string name="password_caption">パスワード</string>
-<string name="keep_password_button">保つ</string>
+<string name="keep_password_button">保存</string>
 <string name="port_caption">ポート</string>
 <string name="repeater_caption">リピーターのID</string>
 <string name="repeater_hint">UltraVNCリピーターに接続するときのサーバーID</string>
